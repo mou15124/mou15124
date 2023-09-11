@@ -2,7 +2,7 @@
 - 👀 I’m interested in Imaginary ones
 - 🌱 I’m currently learning how to build a server
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 my mailbox open 24/7
 
 <!---
 mou15124/mou15124 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
